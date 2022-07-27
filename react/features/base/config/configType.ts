@@ -305,6 +305,7 @@ export interface IConfig {
     };
     firefox_fake_device?: string;
     flags?: {
+        ssrcRewritingEnabled: boolean;
     };
     focusUserJid?: string;
     gatherStats?: boolean;
