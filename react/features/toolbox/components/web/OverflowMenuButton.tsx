@@ -13,12 +13,11 @@ import { REACTIONS_MENU_HEIGHT } from '../../../reactions/constants';
 import { getReactionsQueue } from '../../../reactions/functions.any';
 import { DRAWER_MAX_HEIGHT } from '../../constants';
 
-// @ts-ignore
 import Drawer from './Drawer';
-// @ts-ignore
 import JitsiPortal from './JitsiPortal';
 // @ts-ignore
 import OverflowToggleButton from './OverflowToggleButton';
+/* eslint-enable lines-around-comment */
 
 /**
  * The type of the React {@code Component} props of {@link OverflowMenuButton}.

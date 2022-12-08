@@ -10,6 +10,7 @@ import type { AbstractProps } from '../AbstractPollsPane';
 import PollCreate from './PollCreate';
 // @ts-ignore
 import PollsList from './PollsList';
+/* eslint-enable lines-around-comment */
 
 
 const PollsPane = (props: AbstractProps) => {

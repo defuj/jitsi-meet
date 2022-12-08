@@ -11,6 +11,7 @@ import { ANSWERS_LIMIT, CHAR_LIMIT } from '../../constants';
 import AbstractPollCreate from '../AbstractPollCreate';
 // @ts-ignore
 import type { AbstractProps } from '../AbstractPollCreate';
+/* eslint-enable lines-around-comment */
 
 const useStyles = makeStyles()(theme => {
     return {
